@@ -30,4 +30,5 @@ class Answers(models.Model):
     @property
     def upvote_count(self):
         return self.upvote.all().count()
+    kfkfjfndndhdsuhuisxnx
         
